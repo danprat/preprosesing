@@ -1,0 +1,19 @@
+{
+  "abbreviations": [
+    { "before": "Tdk", "after": "Tidak" },
+    { "before": "G", "after": "Tidak" },
+    { "before": "Gg", "after": "Tidak" },
+    { "before": "Gag", "after": "Tidak" },
+    { "before": "Gug", "after": "Tidak" },
+    { "before": "Enggak", "after": "Tidak" },
+    { "before": "Tak", "after": "Tidak" },
+    { "before": "Bkn", "after": "Bukan" },
+    { "before": "Jgn", "after": "Jangan" },
+    { "before": "Ngga", "after": "Tidak" },
+    { "before": "Blh", "after": "Boleh" },
+    { "before": "Y", "after": "Ya" },
+    { "before": "Yg", "after": "Yang" },
+    { "before": "Yup", "after": "Ya" },
+    { "before": "Bnr", "after": "Benar" }
+  ]
+}
