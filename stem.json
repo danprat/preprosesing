@@ -1,0 +1,10 @@
+{
+  "regex_patterns": [
+    { "pattern": ":\\-\\(.*\\)$", "description": "Ekspresi wajah sedih di akhir baris." },
+    { "pattern": ":\\-*(lah|kah|tah|pun)$", "description": "Kata akhiran seperti 'lah', 'kah', 'tah', atau 'pun' setelah simbol wajah." },
+    { "pattern": ":\\-*(ku|mu|nya)$", "description": "Kata ganti kepemilikan seperti 'ku', 'mu', atau 'nya' setelah simbol wajah." },
+    { "pattern": ":(is|isme|isasi|i|kan|an)$", "description": "Akhiran umum dalam bahasa Indonesia seperti 'is', 'isme', 'isasi', 'i', 'kan', atau 'an' setelah simbol wajah." },
+    { "pattern": ":\\^(di|ke|se)$", "description": "Awalan umum bahasa Indonesia seperti 'di', 'ke', atau 'se' setelah simbol wajah." },
+    { "pattern": ":\\-*(ku|mu|nya)$", "description": "Pola berulang untuk kata ganti kepemilikan seperti 'ku', 'mu', atau 'nya' setelah simbol wajah." }
+  ]
+}
